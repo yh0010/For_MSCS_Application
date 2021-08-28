@@ -1,1 +1,3 @@
 Reddit comments crawling through PRAW api, psycopg2 to connect P/SQL database in Python. Use library vader sentiment analysis to extract polarity scores. Use seaborn + matlab to create linear barplot and wordcloud for wordcloud.
+
+-Code in this folder is completed indipendently by myself.
